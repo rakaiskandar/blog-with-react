@@ -3,6 +3,7 @@ import './index.css'
 import Navbar from './components/Navbar';
 import Home from './page/Home';
 import Create from './page/Create';
+import BlogDetails from './components/BlogDetails';
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
             </Route>
             <Route path="/create">
               <Create/>
+            </Route>
+            <Route path="/blogs/:id">
+              <BlogDetails/>
             </Route>
           </Switch>
         </div>
