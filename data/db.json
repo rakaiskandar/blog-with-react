@@ -13,22 +13,10 @@
       "id": 2
     },
     {
-      "title": "Welcome ",
-      "body": "Lorem ipsum",
-      "author": "yoshi",
-      "id": 3
-    },
-    {
       "title": "Hello world",
       "body": "Ipsum Lorem",
       "author": "yoshi",
       "id": 4
-    },
-    {
-      "title": "Test",
-      "body": "Corpore",
-      "author": "mario",
-      "id": 5
     }
   ]
 }
